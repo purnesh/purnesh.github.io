@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Purnesh Tripathi
 
-You can use the [editor on GitHub](https://github.com/purnesh/purnesh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[comment]: # (You can use the [editor on GitHub](https://github.com/purnesh/purnesh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[comment]: # (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a postgraduate student at University of Auckland, currently pursuing **Master of Professional Studies** in **Data Science**. I live in Auckland, New Zealand and am expected to complete my course in June 2018. I'm also working as a Part-time **Data Engineer** at **[NarrativeMuse](http://narrativemuse.com)** where I'm helping the company find more information in the data than meets the eye.
 
 ```markdown
 Syntax highlighted code block
